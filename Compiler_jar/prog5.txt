@@ -1,0 +1,21 @@
+main{
+print("prog5")
+element l = "9"
+element ty = "ty"
+set h = {l, ty}
+print(h)
+set var = {l, ty}
+print(var)
+if(h==var){
+print("equal")
+}
+else {print("non equal")}
+if(h!=var){
+print("non equal")
+}
+else {print("equal")}
+}
+function qwerty(set f, element a){
+set b = f + a
+print(b)
+}

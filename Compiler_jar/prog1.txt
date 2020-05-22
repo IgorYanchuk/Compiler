@@ -1,0 +1,6 @@
+main{
+print("prog1")
+element l = "9"
+set h = {l}
+print(h)
+}
